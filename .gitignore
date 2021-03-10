@@ -1,0 +1,10 @@
+.vs
+.idea
+
+package-lock.json
+
+node_modules
+
+*.log
+
+*Zone.Identifier
